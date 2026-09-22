@@ -53,7 +53,7 @@ cd LezenTray
 dotnet build -c Release
 ```
 
-## 소스와 검증
+## 블루투스LE 테스트
 
 ```powershell
 dotnet publish ./src/LezenTray.csproj -c Release -o ./app
