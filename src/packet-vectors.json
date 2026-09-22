@@ -1,0 +1,366 @@
+[
+  {
+    "id": "0000",
+    "command": "A0",
+    "data": "AA66A000000000B0",
+    "payload": "6DB6435F6E7F37A14F7B5EB851FA2A049568",
+    "crc": "BC72"
+  },
+  {
+    "id": "0000",
+    "command": "A1",
+    "data": "AA66A100000000B1",
+    "payload": "6DB6435F6E7F37A14F7B5FB851FA2A05377D",
+    "crc": "A9D0"
+  },
+  {
+    "id": "0000",
+    "command": "A2",
+    "data": "AA66A200000000B2",
+    "payload": "6DB6435F6E7F37A14F7B5CB851FA2A06D143",
+    "crc": "9736"
+  },
+  {
+    "id": "0000",
+    "command": "A3",
+    "data": "AA66A300000000B3",
+    "payload": "6DB6435F6E7F37A14F7B5DB851FA2A077356",
+    "crc": "8294"
+  },
+  {
+    "id": "0000",
+    "command": "A4",
+    "data": "AA66A400000000B4",
+    "payload": "6DB6435F6E7F37A14F7B5AB851FA2A001D3E",
+    "crc": "EAFA"
+  },
+  {
+    "id": "0000",
+    "command": "A5",
+    "data": "AA66A500000000B5",
+    "payload": "6DB6435F6E7F37A14F7B5BB851FA2A01BF2B",
+    "crc": "FF58"
+  },
+  {
+    "id": "0000",
+    "command": "A7",
+    "data": "AA66A700000000B7",
+    "payload": "6DB6435F6E7F37A14F7B59B851FA2A03FB00",
+    "crc": "D41C"
+  },
+  {
+    "id": "0000",
+    "command": "A9",
+    "data": "AA66A900000000B9",
+    "payload": "6DB6435F6E7F37A14F7B57B851FA2A0D27D0",
+    "crc": "04C0"
+  },
+  {
+    "id": "0000",
+    "command": "B0",
+    "data": "AA66B000000000C0",
+    "payload": "6DB6435F6E7F37A14F7B4EB851FA2A74A259",
+    "crc": "8D45"
+  },
+  {
+    "id": "0000",
+    "command": "B1",
+    "data": "AA66B100000000C1",
+    "payload": "6DB6435F6E7F37A14F7B4FB851FA2A75004C",
+    "crc": "98E7"
+  },
+  {
+    "id": "0000",
+    "command": "B2",
+    "data": "AA66B200000000C2",
+    "payload": "6DB6435F6E7F37A14F7B4CB851FA2A76E672",
+    "crc": "A601"
+  },
+  {
+    "id": "0000",
+    "command": "B3",
+    "data": "AA66B300000000C3",
+    "payload": "6DB6435F6E7F37A14F7B4DB851FA2A774467",
+    "crc": "B3A3"
+  },
+  {
+    "id": "0000",
+    "command": "B4",
+    "data": "AA66B400000000C4",
+    "payload": "6DB6435F6E7F37A14F7B4AB851FA2A702A0F",
+    "crc": "DBCD"
+  },
+  {
+    "id": "1234",
+    "command": "A0",
+    "data": "AA66A001020304BA",
+    "payload": "6DB6435F6E7F37A14F7B5EB953F92E0EF97D",
+    "crc": "A91E"
+  },
+  {
+    "id": "1234",
+    "command": "A1",
+    "data": "AA66A101020304BB",
+    "payload": "6DB6435F6E7F37A14F7B5FB953F92E0F5B68",
+    "crc": "BCBC"
+  },
+  {
+    "id": "1234",
+    "command": "A2",
+    "data": "AA66A201020304BC",
+    "payload": "6DB6435F6E7F37A14F7B5CB953F92E089910",
+    "crc": "C47E"
+  },
+  {
+    "id": "1234",
+    "command": "A3",
+    "data": "AA66A301020304BD",
+    "payload": "6DB6435F6E7F37A14F7B5DB953F92E093B05",
+    "crc": "D1DC"
+  },
+  {
+    "id": "1234",
+    "command": "A4",
+    "data": "AA66A401020304BE",
+    "payload": "6DB6435F6E7F37A14F7B5AB953F92E0A712B",
+    "crc": "FF96"
+  },
+  {
+    "id": "1234",
+    "command": "A5",
+    "data": "AA66A501020304BF",
+    "payload": "6DB6435F6E7F37A14F7B5BB953F92E0BD33E",
+    "crc": "EA34"
+  },
+  {
+    "id": "1234",
+    "command": "A7",
+    "data": "AA66A701020304C1",
+    "payload": "6DB6435F6E7F37A14F7B59B953F92E757CAC",
+    "crc": "789B"
+  },
+  {
+    "id": "1234",
+    "command": "A9",
+    "data": "AA66A901020304C3",
+    "payload": "6DB6435F6E7F37A14F7B57B953F92E77CCB6",
+    "crc": "622B"
+  },
+  {
+    "id": "1234",
+    "command": "B0",
+    "data": "AA66B001020304CA",
+    "payload": "6DB6435F6E7F37A14F7B4EB953F92E7ECE4C",
+    "crc": "9829"
+  },
+  {
+    "id": "1234",
+    "command": "B1",
+    "data": "AA66B101020304CB",
+    "payload": "6DB6435F6E7F37A14F7B4FB953F92E7F6C59",
+    "crc": "8D8B"
+  },
+  {
+    "id": "1234",
+    "command": "B2",
+    "data": "AA66B201020304CC",
+    "payload": "6DB6435F6E7F37A14F7B4CB953F92E78AE21",
+    "crc": "F549"
+  },
+  {
+    "id": "1234",
+    "command": "B3",
+    "data": "AA66B301020304CD",
+    "payload": "6DB6435F6E7F37A14F7B4DB953F92E790C34",
+    "crc": "E0EB"
+  },
+  {
+    "id": "1234",
+    "command": "B4",
+    "data": "AA66B401020304CE",
+    "payload": "6DB6435F6E7F37A14F7B4AB953F92E7A461A",
+    "crc": "CEA1"
+  },
+  {
+    "id": "ABCD",
+    "command": "A0",
+    "data": "AA66A00A0B0C0DDE",
+    "payload": "6DB6435F6E7F37A14F7B5EB25AF6276A8B7B",
+    "crc": "AF6C"
+  },
+  {
+    "id": "ABCD",
+    "command": "A1",
+    "data": "AA66A10A0B0C0DDF",
+    "payload": "6DB6435F6E7F37A14F7B5FB25AF6276B296E",
+    "crc": "BACE"
+  },
+  {
+    "id": "ABCD",
+    "command": "A2",
+    "data": "AA66A20A0B0C0DE0",
+    "payload": "6DB6435F6E7F37A14F7B5CB25AF6275420AB",
+    "crc": "7FC7"
+  },
+  {
+    "id": "ABCD",
+    "command": "A3",
+    "data": "AA66A30A0B0C0DE1",
+    "payload": "6DB6435F6E7F37A14F7B5DB25AF6275582BE",
+    "crc": "6A65"
+  },
+  {
+    "id": "ABCD",
+    "command": "A4",
+    "data": "AA66A40A0B0C0DE2",
+    "payload": "6DB6435F6E7F37A14F7B5AB25AF62756C890",
+    "crc": "442F"
+  },
+  {
+    "id": "ABCD",
+    "command": "A5",
+    "data": "AA66A50A0B0C0DE3",
+    "payload": "6DB6435F6E7F37A14F7B5BB25AF627576A85",
+    "crc": "518D"
+  },
+  {
+    "id": "ABCD",
+    "command": "A7",
+    "data": "AA66A70A0B0C0DE5",
+    "payload": "6DB6435F6E7F37A14F7B59B25AF627510AE8",
+    "crc": "3CED"
+  },
+  {
+    "id": "ABCD",
+    "command": "A9",
+    "data": "AA66A90A0B0C0DE7",
+    "payload": "6DB6435F6E7F37A14F7B57B25AF62753BAF2",
+    "crc": "265D"
+  },
+  {
+    "id": "ABCD",
+    "command": "B0",
+    "data": "AA66B00A0B0C0DEE",
+    "payload": "6DB6435F6E7F37A14F7B4EB25AF6275AB808",
+    "crc": "DC5F"
+  },
+  {
+    "id": "ABCD",
+    "command": "B1",
+    "data": "AA66B10A0B0C0DEF",
+    "payload": "6DB6435F6E7F37A14F7B4FB25AF6275B1A1D",
+    "crc": "C9FD"
+  },
+  {
+    "id": "ABCD",
+    "command": "B2",
+    "data": "AA66B20A0B0C0DF0",
+    "payload": "6DB6435F6E7F37A14F7B4CB25AF6274411F9",
+    "crc": "2DF6"
+  },
+  {
+    "id": "ABCD",
+    "command": "B3",
+    "data": "AA66B30A0B0C0DF1",
+    "payload": "6DB6435F6E7F37A14F7B4DB25AF62745B3EC",
+    "crc": "3854"
+  },
+  {
+    "id": "ABCD",
+    "command": "B4",
+    "data": "AA66B40A0B0C0DF2",
+    "payload": "6DB6435F6E7F37A14F7B4AB25AF62746F9C2",
+    "crc": "161E"
+  },
+  {
+    "id": "FFFF",
+    "command": "A0",
+    "data": "AA66A00F0F0F0FEC",
+    "payload": "6DB6435F6E7F37A14F7B5EB75EF5255876E1",
+    "crc": "3591"
+  },
+  {
+    "id": "FFFF",
+    "command": "A1",
+    "data": "AA66A10F0F0F0FED",
+    "payload": "6DB6435F6E7F37A14F7B5FB75EF52559D4F4",
+    "crc": "2033"
+  },
+  {
+    "id": "FFFF",
+    "command": "A2",
+    "data": "AA66A20F0F0F0FEE",
+    "payload": "6DB6435F6E7F37A14F7B5CB75EF5255A32CA",
+    "crc": "1ED5"
+  },
+  {
+    "id": "FFFF",
+    "command": "A3",
+    "data": "AA66A30F0F0F0FEF",
+    "payload": "6DB6435F6E7F37A14F7B5DB75EF5255B90DF",
+    "crc": "0B77"
+  },
+  {
+    "id": "FFFF",
+    "command": "A4",
+    "data": "AA66A40F0F0F0FF0",
+    "payload": "6DB6435F6E7F37A14F7B5AB75EF52544372B",
+    "crc": "FFD0"
+  },
+  {
+    "id": "FFFF",
+    "command": "A5",
+    "data": "AA66A50F0F0F0FF1",
+    "payload": "6DB6435F6E7F37A14F7B5BB75EF52545953E",
+    "crc": "EA72"
+  },
+  {
+    "id": "FFFF",
+    "command": "A7",
+    "data": "AA66A70F0F0F0FF3",
+    "payload": "6DB6435F6E7F37A14F7B59B75EF52547D115",
+    "crc": "C136"
+  },
+  {
+    "id": "FFFF",
+    "command": "A9",
+    "data": "AA66A90F0F0F0FF5",
+    "payload": "6DB6435F6E7F37A14F7B57B75EF525414549",
+    "crc": "9DA2"
+  },
+  {
+    "id": "FFFF",
+    "command": "B0",
+    "data": "AA66B00F0F0F0FFC",
+    "payload": "6DB6435F6E7F37A14F7B4EB75EF5254847B3",
+    "crc": "67A0"
+  },
+  {
+    "id": "FFFF",
+    "command": "B1",
+    "data": "AA66B10F0F0F0FFD",
+    "payload": "6DB6435F6E7F37A14F7B4FB75EF52549E5A6",
+    "crc": "7202"
+  },
+  {
+    "id": "FFFF",
+    "command": "B2",
+    "data": "AA66B20F0F0F0FFE",
+    "payload": "6DB6435F6E7F37A14F7B4CB75EF5254A0398",
+    "crc": "4CE4"
+  },
+  {
+    "id": "FFFF",
+    "command": "B3",
+    "data": "AA66B30F0F0F0FFF",
+    "payload": "6DB6435F6E7F37A14F7B4DB75EF5254BA18D",
+    "crc": "5946"
+  },
+  {
+    "id": "FFFF",
+    "command": "B4",
+    "data": "AA66B40F0F0F0F00",
+    "payload": "6DB6435F6E7F37A14F7B4AB75EF525B4089E",
+    "crc": "4AEF"
+  }
+]

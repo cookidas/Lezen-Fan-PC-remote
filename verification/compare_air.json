@@ -1,0 +1,19 @@
+{
+  "screenshot": {
+    "id": "D0BF",
+    "command": "A0",
+    "decoded": "AA66A00D000B0FD7"
+  },
+  "phone_6C3C_power_on_host_payload": "6DB6435F6E7F37A14F7B5EBE5DF9266572F0",
+  "corrected_offset12_payload": "18875217F808CF420992F56EC3AA15BDC868",
+  "padded_payload": "FFF0FF6DB6435F6E7F37A14F7B5EBE5DF9266572F0",
+  "padded_raw_ad_expected": "18FFF0FFFFF0FF6DB6435F6E7F37A14F7B5EBE5DF9266572F0",
+  "channel37_air_rf_tail_all_three_equal": "8EF0AAF4BEE1649297C1C6B679321D990353",
+  "wrong_original_payload_at_offset12_air": "FBC1BBBC28969C71D1286D66E7612E41B9CB",
+  "channel38_corrected_air_rf_tail": "63C99F77136AEDD2257D05A94E78421CF5CF",
+  "channel39_corrected_air_rf_tail": "38DE8CF677136AED4BE9BBA3A341779F5844",
+  "padded_original_vector_count": 52,
+  "hardware_observation": "User confirmed padded 6C3C PowerOn and PowerOff at 2000ms and PowerOn at 200ms. These are user observations, not automated assertions.",
+  "unresolved": "The reason the earlier offset12 transmission received no observed response is not established by this fixture.",
+  "assertions": "PASS: canonical integer LFSR validates offset12; offset15 with3-byte padding also matches; FFF0FF padding matches 3 extra preceding phone bytes for the captured phone PowerOn packet and all52 original ARM64 vectors."
+}

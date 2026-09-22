@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\LezenTray.exe
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\LezenTray.deps.json
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\LezenTray.runtimeconfig.json
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\LezenTray.dll
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\LezenTray.pdb
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\Downloads\LezenTray\src\bin\Release\net9.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.AssemblyInfo.cs
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.csproj.Up2Date
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.dll
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\refint\LezenTray.dll
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.pdb
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\LezenTray.genruntimeconfig.cache
+C:\Users\User\Downloads\LezenTray\src\obj\Release\net9.0-windows10.0.19041.0\ref\LezenTray.dll

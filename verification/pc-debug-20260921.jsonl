@@ -1,0 +1,60 @@
+{"Time":"2026-09-21T18:29:19.5257809+09:00","Process":23508,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--self-test"]}}
+{"Time":"2026-09-21T22:46:30.8715734+09:00","Process":24304,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--self-test"]}}
+{"Time":"2026-09-21T22:46:43.8756468+09:00","Process":11632,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","9C2B","Bind","12","1000"]}}
+{"Time":"2026-09-21T22:46:43.9102155+09:00","Process":11632,"Stage":"control.cli","Details":{"Id":"9C2B","Command":"Bind","Offset":12,"DurationMs":1000}}
+{"Time":"2026-09-21T22:46:43.9585734+09:00","Process":11632,"Stage":"send.request","Details":{"sendId":"93bd1b24","Company":"FFF0","Payload":"18875217F808CF420992E161C3AB128AC002","DurationMs":1000}}
+{"Time":"2026-09-21T22:46:44.0056813+09:00","Process":11632,"Stage":"send.adapter","Details":{"sendId":"93bd1b24","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:46:44.033936+09:00","Process":11632,"Stage":"send.status","Details":{"sendId":"93bd1b24","Status":"Waiting","Error":"Success","ElapsedMs":76}}
+{"Time":"2026-09-21T22:46:44.0405647+09:00","Process":11632,"Stage":"send.status","Details":{"sendId":"93bd1b24","Status":"Started","Error":"Success","ElapsedMs":82}}
+{"Time":"2026-09-21T22:46:45.0550579+09:00","Process":11632,"Stage":"send.status","Details":{"sendId":"93bd1b24","Status":"Stopped","Error":"Success","ElapsedMs":1097}}
+{"Time":"2026-09-21T22:46:45.0573316+09:00","Process":11632,"Stage":"send.completed","Details":{"sendId":"93bd1b24","ElapsedMs":1099}}
+{"Time":"2026-09-21T22:46:45.1223225+09:00","Process":13108,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","9C2B","PowerOn","12","1000"]}}
+{"Time":"2026-09-21T22:46:45.1604556+09:00","Process":13108,"Stage":"control.cli","Details":{"Id":"9C2B","Command":"PowerOn","Offset":12,"DurationMs":1000}}
+{"Time":"2026-09-21T22:46:45.1747025+09:00","Process":13108,"Stage":"send.request","Details":{"sendId":"81dff083","Company":"FFF0","Payload":"18875217F808CF420992F561C3AB12BE7B27","DurationMs":1000}}
+{"Time":"2026-09-21T22:46:45.2093379+09:00","Process":13108,"Stage":"send.adapter","Details":{"sendId":"81dff083","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:46:45.2273159+09:00","Process":13108,"Stage":"send.status","Details":{"sendId":"81dff083","Status":"Waiting","Error":"Success","ElapsedMs":53}}
+{"Time":"2026-09-21T22:46:45.2346357+09:00","Process":13108,"Stage":"send.status","Details":{"sendId":"81dff083","Status":"Started","Error":"Success","ElapsedMs":60}}
+{"Time":"2026-09-21T22:46:46.2551043+09:00","Process":13108,"Stage":"send.status","Details":{"sendId":"81dff083","Status":"Stopped","Error":"Success","ElapsedMs":1081}}
+{"Time":"2026-09-21T22:46:46.2569109+09:00","Process":13108,"Stage":"send.completed","Details":{"sendId":"81dff083","ElapsedMs":1082}}
+{"Time":"2026-09-21T22:47:16.2608937+09:00","Process":10676,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","9C2B","Bind","15","1000"]}}
+{"Time":"2026-09-21T22:47:16.2984594+09:00","Process":10676,"Stage":"control.cli","Details":{"Id":"9C2B","Command":"Bind","Offset":15,"DurationMs":1000}}
+{"Time":"2026-09-21T22:47:16.3134608+09:00","Process":10676,"Stage":"send.request","Details":{"sendId":"1bd506ae","Company":"FFF0","Payload":"6DB6435F6E7F37A14F7B4AB15DF821527A9A","DurationMs":1000}}
+{"Time":"2026-09-21T22:47:16.3467933+09:00","Process":10676,"Stage":"send.adapter","Details":{"sendId":"1bd506ae","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:47:16.3668434+09:00","Process":10676,"Stage":"send.status","Details":{"sendId":"1bd506ae","Status":"Waiting","Error":"Success","ElapsedMs":54}}
+{"Time":"2026-09-21T22:47:16.3750075+09:00","Process":10676,"Stage":"send.status","Details":{"sendId":"1bd506ae","Status":"Started","Error":"Success","ElapsedMs":62}}
+{"Time":"2026-09-21T22:47:17.3901027+09:00","Process":10676,"Stage":"send.status","Details":{"sendId":"1bd506ae","Status":"Stopped","Error":"Success","ElapsedMs":1077}}
+{"Time":"2026-09-21T22:47:17.3918693+09:00","Process":10676,"Stage":"send.completed","Details":{"sendId":"1bd506ae","ElapsedMs":1079}}
+{"Time":"2026-09-21T22:47:17.4615885+09:00","Process":33884,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","9C2B","PowerOn","15","1000"]}}
+{"Time":"2026-09-21T22:47:17.4993241+09:00","Process":33884,"Stage":"control.cli","Details":{"Id":"9C2B","Command":"PowerOn","Offset":15,"DurationMs":1000}}
+{"Time":"2026-09-21T22:47:17.5159854+09:00","Process":33884,"Stage":"send.request","Details":{"sendId":"20cf3d6e","Company":"FFF0","Payload":"6DB6435F6E7F37A14F7B5EB15DF82166C1BF","DurationMs":1000}}
+{"Time":"2026-09-21T22:47:17.5506098+09:00","Process":33884,"Stage":"send.adapter","Details":{"sendId":"20cf3d6e","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:47:17.5721385+09:00","Process":33884,"Stage":"send.status","Details":{"sendId":"20cf3d6e","Status":"Waiting","Error":"Success","ElapsedMs":56}}
+{"Time":"2026-09-21T22:47:17.5794708+09:00","Process":33884,"Stage":"send.status","Details":{"sendId":"20cf3d6e","Status":"Started","Error":"Success","ElapsedMs":64}}
+{"Time":"2026-09-21T22:47:18.59004+09:00","Process":33884,"Stage":"send.status","Details":{"sendId":"20cf3d6e","Status":"Stopped","Error":"Success","ElapsedMs":1074}}
+{"Time":"2026-09-21T22:47:18.5918959+09:00","Process":33884,"Stage":"send.completed","Details":{"sendId":"20cf3d6e","ElapsedMs":1076}}
+{"Time":"2026-09-21T22:50:05.4387099+09:00","Process":27748,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--capture","work/phone-original-capture.jsonl","60"]}}
+{"Time":"2026-09-21T22:51:11.2408131+09:00","Process":7016,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","6C3C","PowerOff","12","1000"]}}
+{"Time":"2026-09-21T22:51:11.2762019+09:00","Process":7016,"Stage":"control.cli","Details":{"Id":"6C3C","Command":"PowerOff","Offset":12,"DurationMs":1000}}
+{"Time":"2026-09-21T22:51:11.2914683+09:00","Process":7016,"Stage":"send.request","Details":{"sendId":"b9ecb797","Company":"FFF0","Payload":"18875217F808CF420992F46EC3AA15BE785E","DurationMs":1000}}
+{"Time":"2026-09-21T22:51:11.3285181+09:00","Process":7016,"Stage":"send.adapter","Details":{"sendId":"b9ecb797","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:51:11.3491625+09:00","Process":7016,"Stage":"send.status","Details":{"sendId":"b9ecb797","Status":"Waiting","Error":"Success","ElapsedMs":58}}
+{"Time":"2026-09-21T22:51:11.3575372+09:00","Process":7016,"Stage":"send.status","Details":{"sendId":"b9ecb797","Status":"Started","Error":"Success","ElapsedMs":66}}
+{"Time":"2026-09-21T22:51:12.3711689+09:00","Process":7016,"Stage":"send.status","Details":{"sendId":"b9ecb797","Status":"Stopped","Error":"Success","ElapsedMs":1080}}
+{"Time":"2026-09-21T22:51:12.3729573+09:00","Process":7016,"Stage":"send.completed","Details":{"sendId":"b9ecb797","ElapsedMs":1082}}
+{"Time":"2026-09-21T22:52:16.0813704+09:00","Process":33532,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","6C3C","PowerOn","12","1000"]}}
+{"Time":"2026-09-21T22:52:16.118405+09:00","Process":33532,"Stage":"control.cli","Details":{"Id":"6C3C","Command":"PowerOn","Offset":12,"DurationMs":1000}}
+{"Time":"2026-09-21T22:52:16.1335957+09:00","Process":33532,"Stage":"send.request","Details":{"sendId":"b3a174c3","Company":"FFF0","Payload":"18875217F808CF420992F56EC3AA15BDC868","DurationMs":1000}}
+{"Time":"2026-09-21T22:52:16.168564+09:00","Process":33532,"Stage":"send.adapter","Details":{"sendId":"b3a174c3","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:52:16.1884497+09:00","Process":33532,"Stage":"send.status","Details":{"sendId":"b3a174c3","Status":"Waiting","Error":"Success","ElapsedMs":55}}
+{"Time":"2026-09-21T22:52:16.2049568+09:00","Process":33532,"Stage":"send.status","Details":{"sendId":"b3a174c3","Status":"Started","Error":"Success","ElapsedMs":71}}
+{"Time":"2026-09-21T22:52:17.2251254+09:00","Process":33532,"Stage":"send.status","Details":{"sendId":"b3a174c3","Status":"Stopped","Error":"Success","ElapsedMs":1092}}
+{"Time":"2026-09-21T22:52:17.2270103+09:00","Process":33532,"Stage":"send.completed","Details":{"sendId":"b3a174c3","ElapsedMs":1094}}
+{"Time":"2026-09-21T22:52:56.2826664+09:00","Process":34372,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--send","6C3C","PowerOn","15","1000"]}}
+{"Time":"2026-09-21T22:52:56.3163+09:00","Process":34372,"Stage":"control.cli","Details":{"Id":"6C3C","Command":"PowerOn","Offset":15,"DurationMs":1000}}
+{"Time":"2026-09-21T22:52:56.3305941+09:00","Process":34372,"Stage":"send.request","Details":{"sendId":"d0bc9049","Company":"FFF0","Payload":"6DB6435F6E7F37A14F7B5EBE5DF9266572F0","DurationMs":1000}}
+{"Time":"2026-09-21T22:52:56.3626212+09:00","Process":34372,"Stage":"send.adapter","Details":{"sendId":"d0bc9049","IsLowEnergySupported":true,"IsPeripheralRoleSupported":true,"IsAdvertisementOffloadSupported":true,"Radio":"On"}}
+{"Time":"2026-09-21T22:52:56.3810502+09:00","Process":34372,"Stage":"send.status","Details":{"sendId":"d0bc9049","Status":"Waiting","Error":"Success","ElapsedMs":51}}
+{"Time":"2026-09-21T22:52:56.3886073+09:00","Process":34372,"Stage":"send.status","Details":{"sendId":"d0bc9049","Status":"Started","Error":"Success","ElapsedMs":58}}
+{"Time":"2026-09-21T22:52:57.3982319+09:00","Process":34372,"Stage":"send.status","Details":{"sendId":"d0bc9049","Status":"Stopped","Error":"Success","ElapsedMs":1068}}
+{"Time":"2026-09-21T22:52:57.4000634+09:00","Process":34372,"Stage":"send.completed","Details":{"sendId":"d0bc9049","ElapsedMs":1070}}
+{"Time":"2026-09-21T22:54:07.6352614+09:00","Process":26980,"Stage":"app.start","Details":{"Version":"0.2.0.0","OS":"Microsoft Windows NT 10.0.26200.0","Arguments":["--self-test"]}}

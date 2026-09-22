@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\LezenTray\app\LezenTray.exe
+C:\Users\User\Downloads\LezenTray\app\LezenTray.dll
+C:\Users\User\Downloads\LezenTray\app\LezenTray.deps.json
+C:\Users\User\Downloads\LezenTray\app\LezenTray.runtimeconfig.json
+C:\Users\User\Downloads\LezenTray\app\LezenTray.pdb
+C:\Users\User\Downloads\LezenTray\app\Microsoft.Windows.SDK.NET.dll
+C:\Users\User\Downloads\LezenTray\app\WinRT.Runtime.dll

@@ -1,0 +1,2 @@
+PASS: 52 original ARM64 vectors and 52 Windows-aligned vectors
+PASS: ID validation, settings, menu, power colors and mode state; no radio transmissions
